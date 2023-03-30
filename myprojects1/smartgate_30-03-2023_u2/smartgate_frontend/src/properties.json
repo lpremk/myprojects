@@ -1,0 +1,4 @@
+{
+    "backend_url":"http://ec2-35-154-179-57.ap-south-1.compute.amazonaws.com:8080",
+    "self_url":"http://ec2-35-154-179-57.ap-south-1.compute.amazonaws.com:3000"
+}
